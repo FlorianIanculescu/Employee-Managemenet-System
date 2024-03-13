@@ -1,5 +1,9 @@
 # Employee-Managemenet-System
 
+[![language](https://img.shields.io/badge/language-Java%2017-blue?labelColor=gray&style=flat&link=https://www.java.com/en/)](https://www.java.com/en/)
+[![Framework](https://img.shields.io/badge/Framework-Spring%206-green?style=flat&link=https://spring.io/)](https://spring.io/)
+[![Framework](https://img.shields.io/badge/Framework-Spring%20Boot%203-green?style=flat&link=https://spring.io/projects/spring-boot)](https://spring.io/projects/spring-boot)
+[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?style=flat&link=https://www.jetbrains.com/idea/)](https://www.jetbrains.com/idea/)
 ## Introduction
 This project is a comprehensive example of building a RESTful API using Spring Boot, incorporating various essential components to create a robust and secure application. With full CRUD (Create, Read, Update, Delete) support, JPA/Hibernate for database operations, Spring Security for authentication and authorization, and advanced exception handling, this project serves as an excellent starting point for building RESTful services with Spring.
 
