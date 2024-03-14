@@ -112,5 +112,5 @@ This API use MySQL database with JPA (Java Persistence API) and Hibernate. MySQL
 
 ![Database Schema](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/ab2f9c45-59fd-431b-827b-e4991bca104c)
 
-## Free
+## License
 The code in this repository is not licensed in any way.
