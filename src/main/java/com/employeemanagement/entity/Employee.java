@@ -2,11 +2,14 @@ package com.employeemanagement.entity;
 
 import jakarta.persistence.*;
 
+// Map the class to a database table
 @Entity
 @Table(name = "employee")
 public class Employee {
 
-    // define fields
+    // Define fields and mapping them to database columns with '@Column'
+    // Make id field a primary key with '@Id' annotation
+    // Let MySQL handle the auto-increment on the primary key
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column
@@ -21,7 +24,7 @@ public class Employee {
     @Column(name = "email")
     private String email;
 
-    // define constructors
+    // Define constructors
     public Employee() {
 
     }
@@ -32,7 +35,7 @@ public class Employee {
         this.email = email;
     }
 
-    // define getter / setter
+    // Define getter / setter
     public int getId() {
         return id;
     }
@@ -65,7 +68,7 @@ public class Employee {
         this.email = email;
     }
 
-    // define toString() method
+    // Define toString() method
     @Override
     public String toString() {
         return "Employee{" +
