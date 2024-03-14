@@ -112,5 +112,55 @@ This API use MySQL database with JPA (Java Persistence API) and Hibernate. MySQL
 
 ![Database Schema](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/ab2f9c45-59fd-431b-827b-e4991bca104c)
 
+## Gallery
+
+- Get all the employees from database:
+  
+![GET ALL EMPLOYEES](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/9cc4aea3-556d-42d5-abd3-ad781d80a272)
+
+- Get employee by id:
+  
+![GET EMPLOYEE BY ID](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/9bf85201-bf47-43bc-870b-5e3e49dd4ab3)
+
+- Create a new employee:
+
+![POST OK](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/062fa828-5282-4f18-b442-fb133ccde41e)
+
+- Database before and after creating a new employee:
+
+![POST DATABASE](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/f6350458-2409-4ffb-8afb-d89dfb7edbe4)
+
+- Updating an employee:
+
+![PUT OK](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/603398d7-37cb-4f5e-ab1b-517e1b52531e)
+
+- Database before and after updating an employee:
+
+![DATABASE AFTER PUT](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/e44ab707-e938-4314-9c66-08edf6742666)
+
+- Deleting an employee:
+  
+![DELETE REQUEST](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/7e8d3991-654d-4b8a-ace0-6903ad5a47a1)
+
+- Database before and after deleting an employee:
+
+![DATABASE DELETE](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/6fa29af8-2d7b-447d-970c-57563089eab2)
+
+- BAD id for get employee:
+
+![BAD ID FOR GET](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/f807f157-757f-4b10-a364-0b8d8103a3ee)
+
+- Unauthorized creating a new employee:
+
+![FOPRBIDDEN POST](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/ef40da51-4dda-4356-9be1-3c45aa136764)
+
+- Unauthorized deleting a new employee:
+  
+![FORBIDDEN DELETE](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/ec287881-2e9f-4a89-b887-e0c3a7d6c31c)
+
+- Unauthenticated (bad password):
+
+![BAD password](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/136f30fc-6e0c-4dff-be61-56b7b5658c5c)
+
 ## License
 The code in this repository is not licensed in any way.
