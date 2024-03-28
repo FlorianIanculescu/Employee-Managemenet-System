@@ -95,8 +95,6 @@ Additionally, in this project it's define access control policies, such as role-
 
 ![Users   Roles](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/b4f3cd62-0a92-4d3d-9329-86261aa3adc7)
 
-![Spring Security](https://github.com/FlorianIanculescu/Employee-Managemenet-System/assets/46021975/f4acdcea-c0e7-4136-a85d-fd1fd33cd34b)
-
 ## Exception Handling
 Exception handling is a crucial aspect of any robust application, and this project employs advanced mechanisms to handle exceptions gracefully, thereby enhancing the overall user experience. By providing detailed error messages, this API can assists developers and end-users alike in understanding the nature of encountered issues, facilitating troubleshooting and resolution.
 
